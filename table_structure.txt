@@ -1,0 +1,16 @@
+writers (AKA users)
+-------------------
+id
+Username
+email 
+password
+verifypassword 
+role 
+created_at
+updated_at
+
+Roles
+------
+id
+role_name
+created_at

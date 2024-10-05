@@ -1,0 +1,29 @@
+Modules 
+-------
+1.auth 
+2.Role & Team management
+3.Individual tests
+4.Team race
+5.Scoreboard & Ranking
+6.Winner assessment
+7.Additional profile setup
+	-> Update Username
+	-> Image
+	-> Have an emoji
+	-> Motivation stories
+
+
+
+Module in process
+--------------
+
+
+auth
+login
+signup 
+
+
+
+
+
+
